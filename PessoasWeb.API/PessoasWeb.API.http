@@ -1,0 +1,6 @@
+@PessoasWeb.API_HostAddress = http://localhost:5264
+
+GET {{PessoasWeb.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
